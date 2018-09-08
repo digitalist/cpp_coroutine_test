@@ -1,4 +1,4 @@
-Corutines test example with cppcoro and clang 
+Coroutines test example with cppcoro and clang 
 
 for ubuntu 18.04:
 ```
