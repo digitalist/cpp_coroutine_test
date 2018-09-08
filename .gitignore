@@ -1,0 +1,10 @@
+.idea
+*.swp
+a.out
+*.pyc
+*.csv
+*.7z
+build
+cmake-build-debug
+nohup.out
+cppcoro
